@@ -1,0 +1,49 @@
+{
+  "hardInclude": "anything",
+  "includeList": [
+    "minecraft:player"
+  ],
+  "includeListInSuperCategory": true,
+  "excludeMode": "ONLY",
+  "excludeList": [
+    "minecraft:glow_item_frame",
+    "minecraft:item_frame"
+  ],
+  "name": "gui.xaero_entity_category_root",
+  "protection": true,
+  "settingOverrides": {
+    "displayed": false,
+    "displayHeight": 0.0,
+    "heightBasedFade": true,
+    "renderOrder": 0.0,
+    "color": 13.0,
+    "displayNameWhenIconFails": true,
+    "entityNumber": 1000.0,
+    "alwaysDisplayNametags": false,
+    "dotSize": 2.0,
+    "startFadingAt": 0.0,
+    "renderOverMinimapFrame": 1.0,
+    "icons": 1.0,
+    "names": 2.0,
+    "heightLimit": 20.0,
+    "iconScale": 1.0
+  },
+  "subCategories": [
+    {
+      "hardInclude": "players",
+      "includeList": [],
+      "includeListInSuperCategory": true,
+      "excludeMode": "ONLY",
+      "excludeList": [],
+      "name": "Players",
+      "protection": false,
+      "settingOverrides": {
+        "displayed": true,
+        "names": 2.0,
+        "color": 2.0,
+        "icons": 2.0
+      },
+      "subCategories": []
+    }
+  ]
+}

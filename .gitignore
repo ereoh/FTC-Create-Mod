@@ -1,0 +1,18 @@
+# files
+options.txt
+realms_persistence.json
+servers.dat**
+
+# directories
+xaero/
+XaeroWaypoints_BACKUP**
+screenshots/
+logs/
+downloads/
+config/*
+
+# keep xaerominimap settings
+!config
+!config/xaerominimap_entities.json
+!config/xaerominimap-common.txt
+!config/xaerominimap.txt
