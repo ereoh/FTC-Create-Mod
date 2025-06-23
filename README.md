@@ -4,7 +4,7 @@
 
 Clone this repo
 ```bash
-git clone TBD
+git clone git@github.com:ereoh/FTC-Create-Mod.git
 ```
 
 more steps here idk
