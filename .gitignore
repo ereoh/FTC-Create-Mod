@@ -17,5 +17,4 @@
 !shaderpacks/Complementary*ColorwheelPatched.zip
 
 # Xaero settings
-!config/xaerominimap*
-config/xaerominimap.txt
+!config/xaerominimap_entities.json
