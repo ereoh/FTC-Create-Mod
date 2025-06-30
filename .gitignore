@@ -1,18 +1,20 @@
-# files
-options.txt
-realms_persistence.json
-servers.dat**
+# Ignore everything by default
+*
 
-# directories
-xaero/
-XaeroWaypoints_BACKUP**
-screenshots/
-logs/
-downloads/
-config/*
+# Track these
+!.gitignore
 
-# keep xaerominimap settings
-!config
-!config/xaerominimap_entities.json
-!config/xaerominimap-common.txt
-!config/xaerominimap.txt
+# Track mods
+!mods/
+!mods/**
+
+# Track core texture packs
+!resourcepacks/Andrew's Textures*
+!resourcepacks/Old Copper Stuffs*
+
+# Track core shaderpacks
+!shaderpacks/Complementary*ColorwheelPatched
+!shaderpacks/Complementary*ColorwheelPatched.zip
+
+# Xaero settings
+!config/xaerominimap*
