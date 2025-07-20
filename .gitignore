@@ -15,8 +15,11 @@
 
 # Track core shaderpacks
 !shaderpacks/
+!shaderpacks/ComplementaryUnbound_*
+!shaderpacks/ComplementaryUnbound_*.zip
 !shaderpacks/Complementary*ColorwheelPatched
 !shaderpacks/Complementary*ColorwheelPatched.zip
+
 
 # Xaero settings
 !config/
