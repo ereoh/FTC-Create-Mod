@@ -7,7 +7,7 @@
   git clone git@github.com:ereoh/FTC-Create-Mod.git
   ```
 
-2. Run `neoforge-21.1.184-installer.jar` and install in your default Minecraft path (e.g., `C:\Users\Ere\AppData\Roaming\.minecraft`)
+2. Run `neoforge-xx.x.xxx-installer.jar` and install in your default Minecraft path (e.g., `C:\Users\Ere\AppData\Roaming\.minecraft`)
 3. Create a Minecraft installation to use this repo
    a. In the Minecraft launcher top bar, go to the "Installations" tab (next to "Play")
    b. Press "new installation"
