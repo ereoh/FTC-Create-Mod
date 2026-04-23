@@ -24,3 +24,6 @@
 # Xaero settings
 !config/
 !config/xaerominimap_entities.json
+
+# Neoforge installer
+!neoforge-*.jar
