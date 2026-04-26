@@ -23,7 +23,11 @@
 
 # Xaero settings
 !config/
-!config/xaerominimap_entities.json
+!config/xaero/
+!config/xaero/minimap/
+!config/xaero/minimap/profiles/
+!config/xaero/minimap/profiles/entity_radar_categories/
+!config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json
 
 # Neoforge installer
 !neoforge-*.jar
